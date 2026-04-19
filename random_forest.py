@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """Random_Forest.ipynb
 
 """
